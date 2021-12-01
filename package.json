@@ -1,6 +1,6 @@
 {
   "name": "jeradg.github.io",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Jerad Gallinger's website",
   "scripts": {
     "build": "npx webpack",
